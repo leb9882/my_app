@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "git repository (http://hithub.com/leb9882/my_app.git)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leb9882/my_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leb9882/my_app/issues"
+  },
+  "homepage": "https://github.com/leb9882/my_app#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
